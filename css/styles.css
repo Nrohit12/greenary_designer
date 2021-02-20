@@ -1,0 +1,186 @@
+#my-img {
+  margin-top: 15px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  left: 20px;
+}
+
+body {
+  background-color: #eabf9f;
+  text-align: center;
+  font-size: 1.1rem;
+}
+p {
+  color: #1e212d;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 2% 3%;
+}
+
+/* Containers */
+
+/* colors */
+
+.colored {
+  background-color: #faf3e0;
+}
+
+/* colors */
+
+/* title */
+
+/* navbar */
+.navbar {
+  padding: 0 0 1rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Verdana, Tahoma, sans-serif;
+  color: #745c97;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+/* title intro */
+h1.name {
+  font-family: "Great Vibes", cursive;
+  font-size: 4rem;
+  line-height: 1;
+  color: #0c093c;
+}
+
+p.name {
+  color: #003f5c;
+  font-family: "Satisfy", cursive;
+  font-size: 2rem;
+}
+
+/* title */
+
+/* Headings */
+
+/* Skills */
+
+.skills-heading {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.skills-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+.skills-image {
+  width: 20%;
+  margin: 10px;
+}
+
+#skills {
+  padding: 50px;
+}
+
+.skills-column {
+  padding: 3% 2%;
+}
+
+.skills-text {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.skills-para {
+  font-size: 1.2rem;
+  line-height: 1.5;
+
+  margin: 0px;
+}
+/* skills */
+
+/* About */
+#about {
+  position: relative;
+}
+
+.about-title {
+  font-size: 3rem;
+}
+
+.about-box {
+  padding: 2.5%;
+  text-align: left;
+}
+
+.about-img {
+  width: 75%;
+}
+
+.about-text {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+/* About */
+
+/* Perks */
+#perks {
+  position: relative;
+}
+
+.perks-title {
+  font-size: 3rem;
+}
+
+.perks-box {
+  padding: 2.5% 2.5% 2.5% 0%;
+  text-align: left;
+}
+
+.perks-box-img {
+  padding: 2.5% 0% 2.5% 2.5%;
+}
+
+.perks-img {
+  width: 60%;
+  height: 85%;
+}
+
+.perks-text {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+/* Perks */
+
+/* footer */
+.social-icon {
+  color: #ef8172;
+  margin: 0 10px;
+}
+
+.social-icon:hover {
+  color: #ff4c68;
+}
+/* footer */
+
+/* contact */
+.contact-img {
+  width: 100px;
+  height: 100px;
+}
+
+.contact-title {
+  font-size: 1.5rem;
+}
+
+.contact-box {
+  padding: 1.5%;
+}
+
+/* contact */
