@@ -179,6 +179,10 @@ p.name {
   font-size: 1.5rem;
 }
 
+.contact-button {
+  margin: 10px;
+}
+
 .contact-box {
   padding: 1.5%;
 }
